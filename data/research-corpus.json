@@ -1,0 +1,500 @@
+{
+  "version": 1,
+  "compiledAt": "2026-11-13T16:30:21.410Z",
+  "note": "本地导入研究语料（仅指搜索命中部分）。搜索命中的记录来自构建时观察的公开零售页面，保留来源 URL 和观察日期；它们不是实时网络搜索。价格是观察值，不是市场均价。",
+  "entries": [
+    {
+      "id": "corpus_us_1",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "RISATORP Desk organizer - white 19 ¾x6 ¼x6 ¾ \"",
+      "url": "https://www.ikea.com/us/en/p/risatorp-desk-organizer-white-20540494/",
+      "domain": "ikea.com",
+      "excerpt": "RISATORP Desk organizer - white 19 ¾x6 ¼x6 ¾ \". Observed live price: 24.99 USD. Rating: 4.7 from 257 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "wooden desk organizer",
+        "wooden",
+        "desk",
+        "organizer"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 24.99,
+      "currency": "USD",
+      "imageUrl": "https://www.ikea.com/us/en/images/products/risatorp-desk-organizer-white__1149497_pe884044_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 257,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_us_2",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "ELLOVEN Monitor stand with drawer - white",
+      "url": "https://www.ikea.com/us/en/p/elloven-monitor-stand-with-drawer-white-50474770/",
+      "domain": "ikea.com",
+      "excerpt": "ELLOVEN Monitor stand with drawer - white. Observed live price: 29.99 USD. Rating: 4.7 from 4536 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "wooden desk organizer",
+        "wooden",
+        "desk",
+        "organizer"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 29.99,
+      "currency": "USD",
+      "imageUrl": "https://www.ikea.com/us/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 4536,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_us_3",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "NOJIG Organizer - plastic/beige 4x4x2 \"",
+      "url": "https://www.ikea.com/us/en/p/nojig-organizer-plastic-beige-60477037/",
+      "domain": "ikea.com",
+      "excerpt": "NOJIG Organizer - plastic/beige 4x4x2 \". Observed live price: 0.29 USD. Rating: 4.8 from 3806 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "wooden desk organizer",
+        "wooden",
+        "desk",
+        "organizer"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 0.29,
+      "currency": "USD",
+      "imageUrl": "https://www.ikea.com/us/en/images/products/nojig-organizer-plastic-beige__0954108_pe804511_s5.jpg",
+      "rating": 4.8,
+      "reviewCount": 3806,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_us_4",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "NÅLBLECKA Kitchen countertop organizer - metal/bamboo 9x5 1/8x5 7/8 \"",
+      "url": "https://www.ikea.com/us/en/p/nalblecka-kitchen-countertop-organizer-metal-bamboo-00618573/",
+      "domain": "ikea.com",
+      "excerpt": "NÅLBLECKA Kitchen countertop organizer - metal/bamboo 9x5 1/8x5 7/8 \". Observed live price: 9.99 USD. Rating: 4.2 from 109 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "wooden desk organizer",
+        "wooden",
+        "desk",
+        "organizer"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 9.99,
+      "currency": "USD",
+      "imageUrl": "https://www.ikea.com/us/en/images/products/nalblecka-kitchen-countertop-organizer-metal-bamboo__1520844_pe1012993_s5.jpg",
+      "rating": 4.2,
+      "reviewCount": 109,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_1",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "BAXNA バクスナ オーガナイザー - グレー/ホワイト 26x34x18 cm",
+      "url": "https://www.ikea.com/jp/ja/p/baxna-organiser-grey-white-80486291/",
+      "domain": "ikea.com",
+      "excerpt": "BAXNA バクスナ オーガナイザー - グレー/ホワイト 26x34x18 cm. Observed live price: 599 JPY. Rating: 4.5 from 435 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 599,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/baxna-organiser-grey-white__0943305_pe796877_s5.jpg",
+      "rating": 4.5,
+      "reviewCount": 435,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_2",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "BAXNA バクスナ オーガナイザー - グレー/ホワイト 26x34x10 cm",
+      "url": "https://www.ikea.com/jp/ja/p/baxna-organiser-grey-white-20474371/",
+      "domain": "ikea.com",
+      "excerpt": "BAXNA バクスナ オーガナイザー - グレー/ホワイト 26x34x10 cm. Observed live price: 499 JPY. Rating: 4.5 from 435 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 499,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/baxna-organiser-grey-white__0943304_pe796878_s5.jpg",
+      "rating": 4.5,
+      "reviewCount": 435,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_3",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "KUGGIS クッギス 収納ボックス ふた付き - ホワイト 32x32x32 cm",
+      "url": "https://www.ikea.com/jp/ja/p/kuggis-storage-box-with-lid-white-80526876/",
+      "domain": "ikea.com",
+      "excerpt": "KUGGIS クッギス 収納ボックス ふた付き - ホワイト 32x32x32 cm. Observed live price: 2499 JPY. Rating: 3.9 from 509 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 2499,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/kuggis-storage-box-with-lid-white__1139591_pe880451_s5.jpg",
+      "rating": 3.9,
+      "reviewCount": 509,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_4",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "KUGGIS クッギス ふた付きボックス - ライトグレー/竹 26x35x15 cm",
+      "url": "https://www.ikea.com/jp/ja/p/kuggis-box-with-lid-light-grey-bamboo-s29596820/",
+      "domain": "ikea.com",
+      "excerpt": "KUGGIS クッギス ふた付きボックス - ライトグレー/竹 26x35x15 cm. Observed live price: 1400 JPY. Rating: 4.7 from 1291 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 1400,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/kuggis-box-with-lid-light-grey-bamboo__1411444_pe973144_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 1291,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_5",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "KUGGIS クッギス ふた付きボックス - ホワイト 37x54x21 cm",
+      "url": "https://www.ikea.com/jp/ja/p/kuggis-box-with-lid-white-s69561201/",
+      "domain": "ikea.com",
+      "excerpt": "KUGGIS クッギス ふた付きボックス - ホワイト 37x54x21 cm. Observed live price: 2500 JPY. Rating: 4.7 from 1291 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 2500,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/kuggis-box-with-lid-white__0713059_pe729163_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 1291,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_jp_6",
+      "countries": [
+        "JP"
+      ],
+      "language": "ja",
+      "type": "competitor",
+      "title": "BÖNSYRSA ボーンスシャ オーガナイザー - マルチカラー",
+      "url": "https://www.ikea.com/jp/ja/p/boensyrsa-organiser-multicolour-80545243/",
+      "domain": "ikea.com",
+      "excerpt": "BÖNSYRSA ボーンスシャ オーガナイザー - マルチカラー. Observed live price: 399 JPY. Rating: 4.9 from 77 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "デスク収納",
+        "デスク収納",
+        "収納",
+        "デスク"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 399,
+      "currency": "JPY",
+      "imageUrl": "https://www.ikea.com/jp/ja/images/products/boensyrsa-organiser-multicolour__1115421_pe872075_s5.jpg",
+      "rating": 4.9,
+      "reviewCount": 77,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_de_1",
+      "countries": [
+        "DE"
+      ],
+      "language": "de",
+      "type": "competitor",
+      "title": "RISATORP Schreibutensilienfach - weiß 50x16x17 cm",
+      "url": "https://www.ikea.com/de/de/p/risatorp-schreibutensilienfach-weiss-20540494/",
+      "domain": "ikea.com",
+      "excerpt": "RISATORP Schreibutensilienfach - weiß 50x16x17 cm. Observed live price: 14.99 EUR. Rating: 4.7 from 258 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "schreibtisch organizer",
+        "schreibtisch",
+        "organizer",
+        "Schreibtisch",
+        "Aufbewahrung"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 14.99,
+      "currency": "EUR",
+      "imageUrl": "https://www.ikea.com/de/de/images/products/risatorp-schreibutensilienfach-weiss__1149497_pe884044_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 258,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_de_2",
+      "countries": [
+        "DE"
+      ],
+      "language": "de",
+      "type": "competitor",
+      "title": "ELLOVEN Monitorerhöhung mit Schublade - weiß",
+      "url": "https://www.ikea.com/de/de/p/elloven-monitorerhoehung-mit-schublade-weiss-50474770/",
+      "domain": "ikea.com",
+      "excerpt": "ELLOVEN Monitorerhöhung mit Schublade - weiß. Observed live price: 24.99 EUR. Rating: 4.7 from 4537 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "schreibtisch organizer",
+        "schreibtisch",
+        "organizer",
+        "Schreibtisch",
+        "Aufbewahrung"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 24.99,
+      "currency": "EUR",
+      "imageUrl": "https://www.ikea.com/de/de/images/products/elloven-monitorerhoehung-mit-schublade-weiss__0955984_pe804426_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 4537,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_de_3",
+      "countries": [
+        "DE"
+      ],
+      "language": "de",
+      "type": "competitor",
+      "title": "STACKSTOD Schreibutensilienfach - graublau 32x18x16 cm",
+      "url": "https://www.ikea.com/de/de/p/stackstod-schreibutensilienfach-graublau-10610109/",
+      "domain": "ikea.com",
+      "excerpt": "STACKSTOD Schreibutensilienfach - graublau 32x18x16 cm. Observed live price: 2.99 EUR. Rating: 4.7 from 63 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "schreibtisch organizer",
+        "schreibtisch",
+        "organizer",
+        "Schreibtisch",
+        "Aufbewahrung"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 2.99,
+      "currency": "EUR",
+      "imageUrl": "https://www.ikea.com/de/de/images/products/stackstod-schreibutensilienfach-graublau__1467494_pe995740_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 63,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_de_4",
+      "countries": [
+        "DE"
+      ],
+      "language": "de",
+      "type": "competitor",
+      "title": "NOJIG Sortierbox - Kunststoff/beige 10x10x5 cm",
+      "url": "https://www.ikea.com/de/de/p/nojig-sortierbox-kunststoff-beige-60477037/",
+      "domain": "ikea.com",
+      "excerpt": "NOJIG Sortierbox - Kunststoff/beige 10x10x5 cm. Observed live price: 0.3 EUR. Rating: 4.8 from 3806 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "schreibtisch organizer",
+        "schreibtisch",
+        "organizer",
+        "Schreibtisch",
+        "Aufbewahrung"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 0.3,
+      "currency": "EUR",
+      "imageUrl": "https://www.ikea.com/de/de/images/products/nojig-sortierbox-kunststoff-beige__0954108_pe804511_s5.jpg",
+      "rating": 4.8,
+      "reviewCount": 3806,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_uk_1",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "RISATORP Desk organiser - white 50x16x17 cm",
+      "url": "https://www.ikea.com/gb/en/p/risatorp-desk-organiser-white-20540494/",
+      "domain": "ikea.com",
+      "excerpt": "RISATORP Desk organiser - white 50x16x17 cm. Observed live price: 15 GBP. Rating: 4.7 from 258 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "desk organiser",
+        "desk",
+        "organiser"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 15,
+      "currency": "GBP",
+      "imageUrl": "https://www.ikea.com/gb/en/images/products/risatorp-desk-organiser-white__1149497_pe884044_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 258,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_uk_2",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "STACKSTOD Desk organiser - grey-blue 32x18x16 cm",
+      "url": "https://www.ikea.com/gb/en/p/stackstod-desk-organiser-grey-blue-10610109/",
+      "domain": "ikea.com",
+      "excerpt": "STACKSTOD Desk organiser - grey-blue 32x18x16 cm. Observed live price: 2 GBP. Rating: 4.7 from 63 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "desk organiser",
+        "desk",
+        "organiser"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 2,
+      "currency": "GBP",
+      "imageUrl": "https://www.ikea.com/gb/en/images/products/stackstod-desk-organiser-grey-blue__1467494_pe995740_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 63,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_uk_3",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "ELLOVEN Monitor stand with drawer - white",
+      "url": "https://www.ikea.com/gb/en/p/elloven-monitor-stand-with-drawer-white-50474770/",
+      "domain": "ikea.com",
+      "excerpt": "ELLOVEN Monitor stand with drawer - white. Observed live price: 25 GBP. Rating: 4.7 from 4535 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "desk organiser",
+        "desk",
+        "organiser"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 25,
+      "currency": "GBP",
+      "imageUrl": "https://www.ikea.com/gb/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg",
+      "rating": 4.7,
+      "reviewCount": 4535,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_uk_4",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "NOJIG Organiser - plastic/beige 10x10x5 cm",
+      "url": "https://www.ikea.com/gb/en/p/nojig-organiser-plastic-beige-60477037/",
+      "domain": "ikea.com",
+      "excerpt": "NOJIG Organiser - plastic/beige 10x10x5 cm. Observed live price: 0.25 GBP. Rating: 4.8 from 3806 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "desk organiser",
+        "desk",
+        "organiser"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 0.25,
+      "currency": "GBP",
+      "imageUrl": "https://www.ikea.com/gb/en/images/products/nojig-organiser-plastic-beige__0954108_pe804511_s5.jpg",
+      "rating": 4.8,
+      "reviewCount": 3806,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    },
+    {
+      "id": "corpus_uk_5",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "type": "competitor",
+      "title": "NÅLBLECKA Kitchen countertop organiser - metal/bamboo 23x13x15 cm",
+      "url": "https://www.ikea.com/gb/en/p/nalblecka-kitchen-countertop-organiser-metal-bamboo-00618573/",
+      "domain": "ikea.com",
+      "excerpt": "NÅLBLECKA Kitchen countertop organiser - metal/bamboo 23x13x15 cm. Observed live price: 5 GBP. Rating: 4.2 from 109 reviews. Observed on the retailer product page.",
+      "queryTags": [
+        "desk organiser",
+        "desk",
+        "organiser"
+      ],
+      "brand": "IKEA",
+      "observedPrice": 5,
+      "currency": "GBP",
+      "imageUrl": "https://www.ikea.com/gb/en/images/products/nalblecka-kitchen-countertop-organiser-metal-bamboo__1520844_pe1012993_s5.jpg",
+      "rating": 4.2,
+      "reviewCount": 109,
+      "observedAt": "2026-11-13",
+      "sourceNote": "Public retailer page observed during corpus build (ikea-product-page). Imported snapshot; not a live search result at runtime."
+    }
+  ]
+}

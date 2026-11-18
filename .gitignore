@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-production/
+out/
+coverage/
+data/*.db
+data/*.db-*
+data/uploads/
+.env
+.env.local
+.env.*.local
+.npm-cache/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+npm-debug.log*
